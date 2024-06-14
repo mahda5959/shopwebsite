@@ -2,9 +2,9 @@
 
 namespace ShopWebApp.Controllers
 {
-    public class HomeController : Controller
+    public class UserController : Controller
     {
-        public IActionResult Index()
+        public IActionResult SignUp()
         {
             return View();
         }
