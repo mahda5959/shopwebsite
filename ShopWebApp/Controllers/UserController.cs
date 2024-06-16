@@ -8,5 +8,19 @@ namespace ShopWebApp.Controllers
         {
             return View();
         }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+        public IActionResult Error404()
+        {
+            return View();
+        }
+        public IActionResult Forget()
+        {
+            return View();
+        }
     }
+
 }
