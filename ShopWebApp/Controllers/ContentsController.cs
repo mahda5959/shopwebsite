@@ -17,13 +17,13 @@ namespace ShopWebApp.Controllers
             return View();
         }
        
-         public IActionResult Panel()
+        public IActionResult Panel()
         {
             return View();
         }
         
 
-             public IActionResult Search()
+        public IActionResult Search()
         {
             return View();
         }

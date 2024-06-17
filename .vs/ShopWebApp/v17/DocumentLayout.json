@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "E:\\sun\\shopwebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\contents\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\contents\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\contents\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\contents\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\contents\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\contents\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\contents\\teach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\contents\\teach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\user\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\user\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\other\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\other\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\other\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\other\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sun\\shopwebsite\\src\\contact-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\contact-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\controllers\\othercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\controllers\\othercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,150 +25,59 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 256,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Course.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Course.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Contents\\Course.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Course.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\Contents\\Course.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:09:16.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Panel.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Panel.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Contents\\Panel.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Panel.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\Contents\\Panel.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:09:14.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Search.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Contents\\Search.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Search.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\Contents\\Search.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:09:10.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Teach.cshtml",
               "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Teach.cshtml",
               "RelativeDocumentMoniker": "ShopWebApp\\Views\\Contents\\Teach.cshtml",
               "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Teach.cshtml",
               "RelativeToolTip": "ShopWebApp\\Views\\Contents\\Teach.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAK0AAAAAAAAAAADwvx0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:09:08.337Z",
+              "WhenOpened": "2024-06-17T11:50:51.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:09:02.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Other\\Category.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Other\\Category.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Other\\Category.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\Other\\Category.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:08:57.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\User\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\User\\SignUp.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\User\\SignUp.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\User\\SignUp.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:08:43.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "contact-us.html",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\src\\contact-us.html",
-              "RelativeDocumentMoniker": "src\\contact-us.html",
-              "ToolTip": "E:\\sun\\shopwebsite\\src\\contact-us.html",
-              "RelativeToolTip": "src\\contact-us.html",
-              "ViewState": "AQIAABIBAAAAAAAAAAAcwBMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-16T11:07:58.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Other\\Contact.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Other\\Contact.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Other\\Contact.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\Other\\Contact.cshtml",
-              "ViewState": "AQIAACYBAAAAAAAAAAAowDIBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T11:06:30.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OtherController.cs",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Controllers\\OtherController.cs",
-              "RelativeDocumentMoniker": "ShopWebApp\\Controllers\\OtherController.cs",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Controllers\\OtherController.cs",
-              "RelativeToolTip": "ShopWebApp\\Controllers\\OtherController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T11:00:26.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "ContentsController.cs",
               "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Controllers\\ContentsController.cs",
               "RelativeDocumentMoniker": "ShopWebApp\\Controllers\\ContentsController.cs",
               "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Controllers\\ContentsController.cs",
               "RelativeToolTip": "ShopWebApp\\Controllers\\ContentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T10:58:05.04Z",
+              "WhenOpened": "2024-06-17T11:48:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error404.cshtml",
+              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\User\\Error404.cshtml",
+              "RelativeDocumentMoniker": "ShopWebApp\\Views\\User\\Error404.cshtml",
+              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\User\\Error404.cshtml",
+              "RelativeToolTip": "ShopWebApp\\Views\\User\\Error404.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:39:10.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:35:50.094Z",
               "EditorCaption": ""
             }
           ]
