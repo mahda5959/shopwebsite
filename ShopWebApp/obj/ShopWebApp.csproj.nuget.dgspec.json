@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\sun\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj": {}
+    "E:\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj": {}
   },
   "projects": {
-    "E:\\sun\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj": {
+    "E:\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\sun\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj",
+        "projectUniqueName": "E:\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj",
         "projectName": "ShopWebApp",
-        "projectPath": "E:\\sun\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj",
-        "packagesPath": "C:\\Users\\fara\\.nuget\\packages\\",
-        "outputPath": "E:\\sun\\shopwebsite\\ShopWebApp\\obj\\",
+        "projectPath": "E:\\shopwebsite\\ShopWebApp\\ShopWebApp.csproj",
+        "packagesPath": "C:\\Users\\ghavam\\.nuget\\packages\\",
+        "outputPath": "E:\\shopwebsite\\ShopWebApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ghavam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

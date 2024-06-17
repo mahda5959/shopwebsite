@@ -27,6 +27,7 @@ namespace ShopWebApp.Controllers
         {
             return View();
         }
+
         public IActionResult Teach()
         {
             return View();
