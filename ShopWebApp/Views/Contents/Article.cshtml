@@ -9,8 +9,8 @@
     <div class="container">
         <div class="container">
             <ul class="breadcrumb bg-white mt-4">
-                <li class="breadcrumb-item"><a href="#" class="font-12 vazir">صفحه اصلی</a></li>
-                <li class="breadcrumb-item"><a href="# " class="pr-2 font-12 vazir">بلاگ</a></li>
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index" class="font-12 vazir">صفحه اصلی</a></li>
+                <li class="breadcrumb-item"><a asp-controller="Contents" asp-action="Blog" class="pr-2 font-12 vazir">بلاگ</a></li>
                 <li class="breadcrumb-item"><a href="#" class="pr-2 font-12 vazir">راهنمای بهینه سازی وبسایت برای افراد مبتدی</a></li>
             </ul>
         </div>
@@ -20,7 +20,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <img src="images/Untitled2.png" alt="article" class="img-fluid px-3">
+                <img src="~/images/Untitled2.png" alt="article" class="img-fluid px-3">
             </div>
         </div>
         <div class="row ">
@@ -159,11 +159,11 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card custom-card mb-3 shadow-sm">
 
-                    <img src="images/article-1.jpg" alt="article" class="img-fluid card-img-top">
+                    <img src="~/images/article-1.jpg" alt="article" class="img-fluid card-img-top">
 
                     <div class="card-body">
                         <div class="text-center mb-2 mt-2">
-                            <a href="article.html" class="card-link font-14">5 دیدگاه متفاوت در کارآفرینان موفق</a>
+                            <a asp-controller="Contents" asp-action="Blog" class="card-link font-14">5 دیدگاه متفاوت در کارآفرینان موفق</a>
                         </div>
                         <p class="card-text font-13 vazir">
                             لورم ایپسوم متن ساختگی با
@@ -173,7 +173,7 @@
                             <i class="fa fa-pen ml-1"></i> ادمین
                             <i class=" fa fa-eye mx-1"></i>140
                         </span>
-                        <a href="article.html" class="btn float-left read-more">بیشتر بخوانید</a>
+                        <a asp-controller="Contents" asp-action="Article" class="btn float-left read-more">بیشتر بخوانید</a>
                     </div>
 
                 </div>
@@ -182,11 +182,11 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card custom-card  mb-3 shadow-sm">
 
-                    <img src="images/Untitled2.png" alt="" class="img-fluid card-img-top">
+                    <img src="~/images/Untitled2.png" alt="" class="img-fluid card-img-top">
 
                     <div class="card-body">
                         <div class="text-center mb-2 mt-2">
-                            <a href="article.html" class="card-link font-14">راهنمای بهینه سازی وبسایت برای افراد مبتدی</a>
+                        <a asp-controller="Contents" asp-action="Article" class="card-link font-14">راهنمای بهینه سازی وبسایت برای افراد مبتدی</a>
                         </div>
                         <p class="card-text font-13 vazir">
                             لورم ایپسوم متن ساختگی با
@@ -196,7 +196,7 @@
                             <i class="fa fa-pen ml-1"></i> ادمین
                             <i class=" fa fa-eye mx-1"></i>140
                         </span>
-                        <a href="article.html" class="btn float-left read-more">بیشتر بخوانید</a>
+                        <a asp-controller="Contents" asp-action="Article" class="btn float-left read-more">بیشتر بخوانید</a>
                     </div>
 
                 </div>
@@ -205,11 +205,11 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card custom-card  mb-3 shadow-sm">
 
-                    <img src="images/article-3.jpg" alt="" class="img-fluid card-img-top">
+                    <img src="~/images/article-3.jpg" alt="" class="img-fluid card-img-top">
 
                     <div class="card-body">
                         <div class="text-center mb-2 mt-2 font-14">
-                            <a href="article.html" class="card-link">3 نکته ای که احتمالا درباره تفکر طراحی نمیدانید</a>
+                        <a asp-controller="Contents" asp-action="Article" class="card-link">3 نکته ای که احتمالا درباره تفکر طراحی نمیدانید</a>
                         </div>
                         <p class="card-text font-13 vazir">
                             لورم ایپسوم متن ساختگی با
@@ -219,7 +219,7 @@
                             <i class="fa fa-pen ml-1"></i> ادمین
                             <i class=" fa fa-eye mx-1"></i>140
                         </span>
-                        <a href="article.html" class="btn float-left read-more">بیشتر بخوانید</a>
+                        <a asp-controller="Contents" asp-action="Article" class="btn float-left read-more">بیشتر بخوانید</a>
                     </div>
 
                 </div>

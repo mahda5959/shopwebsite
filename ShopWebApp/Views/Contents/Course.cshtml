@@ -9,9 +9,9 @@
 
     <div class="container">
         <ul class="breadcrumb bg-white mt-4 ">
-            <li class="breadcrumb-item"><a href="#" class="font-12 vazir">صفحه اصلی</a></li>
-            <li class="breadcrumb-item"><a href="#" class="pr-2 font-12 vazir">دوره های آموزشی</a></li>
-            <li class="breadcrumb-item"><a href="#" class="pr-2 font-12 vazir">آموزش HTML</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index" class="font-12 vazir">صفحه اصلی</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Contents" asp-action="Course" class="pr-2 font-12 vazir">دوره های آموزشی</a></li>
+        <li class="breadcrumb-item"><a asp-controller="Contents" asp-action="Course" class="pr-2 font-12 vazir">آموزش HTML</a></li>
         </ul>
     </div>
 
@@ -19,7 +19,7 @@
         <div class="row">
 
             <div class="col-md-4 mb-3">
-                <img src="images/html-2.png"  class="img-fluid" alt="HTML">
+                <img src="~/images/html-2.png"  class="img-fluid" alt="HTML">
                 <ul class="list-group text-center list-group-flush custom-list-group">
                     <li class="list-group-item font-13">عنوان دوره : آموزش HTML</li>
                     <li class="list-group-item font-13">مدرس : علی نوروزی</li>
@@ -35,9 +35,9 @@
                 <div class="card mb-3">
                     <div class="card-header bg-white px-0 course-table">
                         <ul class="nav nav-justified pr-0">
-                            <li class="nav-item"><a href="#course-info" class="nav-link active font-14" data-toggle="list">معرفی دوره</a></li>
-                            <li class="nav-item"><a href="#comment" class="nav-link font-14" data-toggle="list">پرسش و پاسخ دوره</a></li>
-                            <li class="nav-item"><a href="#teacher-info" class="nav-link font-14" data-toggle="list">درباره مدرس</a></li>
+                        <li class="nav-item"><a asp-controller="Contents" asp-action="Course" class="nav-link active font-14" data-toggle="list">معرفی دوره</a></li>
+                        <li class="nav-item"><a asp-controller="Contents" asp-action="Course" class="nav-link font-14" data-toggle="list">پرسش و پاسخ دوره</a></li>
+                        <li class="nav-item"><a asp-controller="Contents" asp-action="Teach" class="nav-link font-14" data-toggle="list">درباره مدرس</a></li>
                         </ul>
                     </div>
                     <div class="card-body">
@@ -147,7 +147,7 @@
 
                             <div class="tab-pane fade" id="teacher-info"><!-- Start teacher info -->
                                 
-                                <img src="images/teacher.jpg" alt="" class="img-fluid d-block mx-auto">
+                                <img src="~/images/teacher.jpg" alt="" class="img-fluid d-block mx-auto">
 
                                 <p class="text-justify mt-5 vazir font-14">اول داستان، طراح گرافیک بودم و ۲ سالی به عنوان طراح مشغول بودم،
                                     بعد به برنامه‌نویسی علاقمند شدم و الان بیشتر 
@@ -209,14 +209,14 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="card custom-card mb-3">
                     <div class="sub-layer">
-                        <img src="images/bootstrap.jpg" alt="bootstrap" class="img-fluid card-img-top">
+                        <img src="~/images/bootstrap.jpg" alt="bootstrap" class="img-fluid card-img-top">
                         <div class="over-layer">
-                            <a href="course.html" class="btn btn-primary"> مشاهده و خرید </a>
+                        <a asp-controller="Contents" asp-action="Course" class="btn btn-primary"> مشاهده و خرید </a>
                             <span class="badge badge-secondary badge-pill"> 50 <i class="fa fa-shopping-basket pr-1"></i></span> 
                         </div>
                     </div>
                     <div class="card-body">
-                        <a href="course.html" class="card-link">آموزش جامع Bootstrap 4</a>
+                    <a asp-controller="Contents" asp-action="Course" class="card-link">آموزش جامع Bootstrap 4</a>
                         <p class="text-justify card-text vazir font-14 mt-3">
                             لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
                             استفاده از طراحان گرافیک است. چاپگرها و متون بلکه 
@@ -236,14 +236,14 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="card custom-card mb-3">
                     <div class="sub-layer">
-                        <img src="images/vuex1.jpg" alt="VUE X" class="img-fluid card-img-top">
+                        <img src="~/images/vuex1.jpg" alt="VUE X" class="img-fluid card-img-top">
                         <div class="over-layer">
-                            <a href="course.html" class="btn btn-primary"> مشاهده و خرید </a>
+                        <a asp-controller="Contents" asp-action="Course" class="btn btn-primary"> مشاهده و خرید </a>
                             <span class="badge badge-secondary badge-pill"> 50 <i class="fa fa-shopping-basket pr-1"></i></span> 
                         </div>
                     </div>
                     <div class="card-body">
-                        <a href="course.html" class="card-link">آموزش VUE X</a>
+                    <a asp-controller="Contents" asp-action="Course" class="card-link">آموزش VUE X</a>
                         <p class="text-justify card-text vazir font-14 mt-3">
                             لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
                             استفاده از طراحان گرافیک است. چاپگرها و متون بلکه 
@@ -263,14 +263,14 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="card custom-card mb-3">
                     <div class="sub-layer">
-                        <img src="images/flutter-1.png" alt="Flutter" class="img-fluid card-img-top">
+                        <img src="~/images/flutter-1.png" alt="Flutter" class="img-fluid card-img-top">
                         <div class="over-layer">
-                            <a href="course.html" class="btn btn-primary"> مشاهده و خرید </a>
+                        <a asp-controller="Contents" asp-action="Course" class="btn btn-primary"> مشاهده و خرید </a>
                             <span class="badge badge-secondary badge-pill"> 50 <i class="fa fa-shopping-basket pr-1"></i></span> 
                         </div>
                     </div>
                     <div class="card-body">
-                        <a href="course.html" class="card-link">آموزش Flutter</a>
+                    <a asp-controller="Contents" asp-action="Course" class="card-link">آموزش Flutter</a>
                         <p class="text-justify card-text vazir font-14 mt-3">
                             لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
                             استفاده از طراحان گرافیک است. چاپگرها و متون بلکه 

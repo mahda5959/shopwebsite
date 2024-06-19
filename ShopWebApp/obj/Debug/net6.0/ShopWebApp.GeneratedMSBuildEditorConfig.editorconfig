@@ -9,69 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShopWebApp
 build_property.RootNamespace = ShopWebApp
-build_property.ProjectDir = E:\shopwebsite\ShopWebApp\
+build_property.ProjectDir = E:\sun\shopwebsite\ShopWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\shopwebsite\ShopWebApp
+build_property.MSBuildProjectDirectory = E:\sun\shopwebsite\ShopWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/shopwebsite/ShopWebApp/Views/Contents/Article.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Contents/Article.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcQXJ0aWNsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Contents/Blog.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Contents/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Contents/Course.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Contents/Course.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcQ291cnNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Contents/Panel.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Contents/Panel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcUGFuZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Contents/Search.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Contents/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Contents/Teach.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Contents/Teach.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcVGVhY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Home/Index.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Other/Category.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Other/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3RoZXJcQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Other/Contact.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Other/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3RoZXJcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/Shared/_Layout.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/User/Error404.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/User/Error404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFcnJvcjQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/User/Forget.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/User/Forget.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGb3JnZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/User/Login.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/User/SignUp.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/User/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/shopwebsite/ShopWebApp/Views/_ViewImports.cshtml]
+[E:/sun/shopwebsite/ShopWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

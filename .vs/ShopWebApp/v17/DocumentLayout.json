@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\sun\\shopwebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\contents\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\contents\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\contents\\teach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\contents\\teach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\user\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\user\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|e:\\sun\\shopwebsite\\shopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB9F27D8-C00D-4694-BB0B-58D1F75A9D13}|ShopWebApp\\ShopWebApp.csproj|solutionrelative:shopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 256,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Teach.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Teach.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Contents\\Teach.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Teach.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\Contents\\Teach.cshtml",
-              "ViewState": "AQIAAK0AAAAAAAAAAADwvx0AAAAaAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShopWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkBAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T11:50:51.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContentsController.cs",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Controllers\\ContentsController.cs",
-              "RelativeDocumentMoniker": "ShopWebApp\\Controllers\\ContentsController.cs",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Controllers\\ContentsController.cs",
-              "RelativeToolTip": "ShopWebApp\\Controllers\\ContentsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T11:48:27.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Error404.cshtml",
-              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\User\\Error404.cshtml",
-              "RelativeDocumentMoniker": "ShopWebApp\\Views\\User\\Error404.cshtml",
-              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\User\\Error404.cshtml",
-              "RelativeToolTip": "ShopWebApp\\Views\\User\\Error404.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T11:39:10.084Z",
+              "WhenOpened": "2024-06-18T17:44:38.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Teach.cshtml",
+              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Teach.cshtml",
+              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Contents\\Teach.cshtml",
+              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Teach.cshtml",
+              "RelativeToolTip": "ShopWebApp\\Views\\Contents\\Teach.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAFEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:39:52.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Panel.cshtml",
+              "RelativeDocumentMoniker": "ShopWebApp\\Views\\Contents\\Panel.cshtml",
+              "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Contents\\Panel.cshtml",
+              "RelativeToolTip": "ShopWebApp\\Views\\Contents\\Panel.cshtml",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAAAHgBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:25:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ShopWebApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\sun\\shopwebsite\\ShopWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ShopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAASwIAAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-17T11:35:50.094Z",
               "EditorCaption": ""
